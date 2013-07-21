@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title></title>
+		<description></description>
+		<link>http://manosriglis.github.io</link>
+		<atom:link href="http://manosriglis.github.io/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>Second Post</title>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia pretium dolor, eget placerat nulla consequat et. Phasellus lobortis urna non accumsan fermentum. Integer metus mauris, malesuada nec lobortis a, pharetra sit amet mauris. Duis porta magna eu risus aliquam, non sagittis lorem semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Curabitur ultricies risus eu est blandit, eu tristique arcu convallis. In lacinia mauris ac nunc semper adipiscing. Fusce imperdiet semper convallis. In porta nunc ac arcu faucibus, ac feugiat felis vulputate.&lt;/p&gt;
+
+&lt;p&gt;Donec varius volutpat nisi at congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum malesuada porttitor mauris nec suscipit. Maecenas vel nulla dui. Vestibulum pulvinar congue nulla vel tristique. Fusce congue magna at tortor facilisis pulvinar. Fusce et felis venenatis, iaculis augue eget, adipiscing sem. Aliquam suscipit tempus orci at euismod. Aenean vulputate ipsum vitae purus eleifend, nec eleifend metus aliquet. Nulla lobortis viverra massa id congue. In id commodo mi, id mattis odio. Curabitur venenatis orci mi, nec tempus diam congue sed. Proin non pellentesque ante. Integer velit augue, pharetra eget suscipit eu, blandit imperdiet erat. Morbi ut nibh purus.&lt;/p&gt;
+
+&lt;p&gt;Curabitur vulputate nibh risus, sed fermentum est sodales quis. Morbi sagittis posuere tortor, ut vestibulum diam iaculis sit amet. Fusce adipiscing elementum risus, in tempor dolor mollis eget. Cras dictum, magna id ultrices pretium, sem turpis imperdiet justo, vel hendrerit dui enim consectetur est. Curabitur dapibus at mi eu commodo. Sed eget porta mi. Donec interdum eros vitae velit mattis tincidunt. Pellentesque porta felis sit amet vestibulum tristique. Integer lobortis mollis tortor at auctor. Cras venenatis feugiat adipiscing. Praesent eu lectus varius, blandit sapien non, vulputate mauris. Proin at vestibulum dui, et malesuada metus. Fusce vitae odio pulvinar, porttitor nisi in, accumsan lacus.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 21 Jul 2013 16:34:00 +0100</pubDate>
+				<link>http://manosriglis.github.io/blog/2013/07/21/second-post/</link>
+				<guid isPermaLink="true">http://manosriglis.github.io/blog/2013/07/21/second-post/</guid>
+			</item>
+		
+			<item>
+				<title>First Post</title>
+				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia pretium dolor, eget placerat nulla consequat et. Phasellus lobortis urna non accumsan fermentum. Integer metus mauris, malesuada nec lobortis a, pharetra sit amet mauris. Duis porta magna eu risus aliquam, non sagittis lorem semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Curabitur ultricies risus eu est blandit, eu tristique arcu convallis. In lacinia mauris ac nunc semper adipiscing. Fusce imperdiet semper convallis. In porta nunc ac arcu faucibus, ac feugiat felis vulputate.&lt;/p&gt;
+
+&lt;p&gt;Donec varius volutpat nisi at congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum malesuada porttitor mauris nec suscipit. Maecenas vel nulla dui. Vestibulum pulvinar congue nulla vel tristique. Fusce congue magna at tortor facilisis pulvinar. Fusce et felis venenatis, iaculis augue eget, adipiscing sem. Aliquam suscipit tempus orci at euismod. Aenean vulputate ipsum vitae purus eleifend, nec eleifend metus aliquet. Nulla lobortis viverra massa id congue. In id commodo mi, id mattis odio. Curabitur venenatis orci mi, nec tempus diam congue sed. Proin non pellentesque ante. Integer velit augue, pharetra eget suscipit eu, blandit imperdiet erat. Morbi ut nibh purus.&lt;/p&gt;
+
+&lt;p&gt;Curabitur vulputate nibh risus, sed fermentum est sodales quis. Morbi sagittis posuere tortor, ut vestibulum diam iaculis sit amet. Fusce adipiscing elementum risus, in tempor dolor mollis eget. Cras dictum, magna id ultrices pretium, sem turpis imperdiet justo, vel hendrerit dui enim consectetur est. Curabitur dapibus at mi eu commodo. Sed eget porta mi. Donec interdum eros vitae velit mattis tincidunt. Pellentesque porta felis sit amet vestibulum tristique. Integer lobortis mollis tortor at auctor. Cras venenatis feugiat adipiscing. Praesent eu lectus varius, blandit sapien non, vulputate mauris. Proin at vestibulum dui, et malesuada metus. Fusce vitae odio pulvinar, porttitor nisi in, accumsan lacus.&lt;/p&gt;
+</description>
+				<pubDate>Sun, 21 Jul 2013 16:25:00 +0100</pubDate>
+				<link>http://manosriglis.github.io/blog/2013/07/21/first-post/</link>
+				<guid isPermaLink="true">http://manosriglis.github.io/blog/2013/07/21/first-post/</guid>
+			</item>
+		
+	</channel>
+</rss>
