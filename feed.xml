@@ -11,7 +11,9 @@
 		
 			<item>
 				<title>Third Post</title>
-				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia pretium dolor, eget placerat nulla consequat et. Phasellus lobortis urna non accumsan fermentum. Integer metus mauris, malesuada nec lobortis a, pharetra sit amet mauris. Duis porta magna eu risus aliquam, non sagittis lorem semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Curabitur ultricies risus eu est blandit, eu tristique arcu convallis. In lacinia mauris ac nunc semper adipiscing. Fusce imperdiet semper convallis. In porta nunc ac arcu faucibus, ac feugiat felis vulputate.&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;/assets/images/image_3.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia pretium dolor, eget placerat nulla consequat et. Phasellus lobortis urna non accumsan fermentum. Integer metus mauris, malesuada nec lobortis a, pharetra sit amet mauris. Duis porta magna eu risus aliquam, non sagittis lorem semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Curabitur ultricies risus eu est blandit, eu tristique arcu convallis. In lacinia mauris ac nunc semper adipiscing. Fusce imperdiet semper convallis. In porta nunc ac arcu faucibus, ac feugiat felis vulputate.&lt;/p&gt;
 
 &lt;p&gt;Donec varius volutpat nisi at congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum malesuada porttitor mauris nec suscipit. Maecenas vel nulla dui. Vestibulum pulvinar congue nulla vel tristique. Fusce congue magna at tortor facilisis pulvinar. Fusce et felis venenatis, iaculis augue eget, adipiscing sem. Aliquam suscipit tempus orci at euismod. Aenean vulputate ipsum vitae purus eleifend, nec eleifend metus aliquet. Nulla lobortis viverra massa id congue. In id commodo mi, id mattis odio. Curabitur venenatis orci mi, nec tempus diam congue sed. Proin non pellentesque ante. Integer velit augue, pharetra eget suscipit eu, blandit imperdiet erat. Morbi ut nibh purus.&lt;/p&gt;
 
@@ -20,14 +22,16 @@
 				<pubDate>Sun, 21 Jul 2013 18:09:00 +0100</pubDate>
 				<link>http://manosriglis.github.io/blog/2013/07/21/third-post/</link>
 				<guid isPermaLink="true">http://manosriglis.github.io/blog/2013/07/21/third-post/</guid>
-				<media:content url="http://manosriglis.github.io/assets/images/image_2.jpg"
+				<media:content url="http://manosriglis.github.io/assets/images/image_3.jpg"
                      type="image/jpeg" medium="image">
 				</media:content>
 			</item>
 		
 			<item>
 				<title>Second Post</title>
-				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia pretium dolor, eget placerat nulla consequat et. Phasellus lobortis urna non accumsan fermentum. Integer metus mauris, malesuada nec lobortis a, pharetra sit amet mauris. Duis porta magna eu risus aliquam, non sagittis lorem semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Curabitur ultricies risus eu est blandit, eu tristique arcu convallis. In lacinia mauris ac nunc semper adipiscing. Fusce imperdiet semper convallis. In porta nunc ac arcu faucibus, ac feugiat felis vulputate.&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;/assets/images/image_2.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia pretium dolor, eget placerat nulla consequat et. Phasellus lobortis urna non accumsan fermentum. Integer metus mauris, malesuada nec lobortis a, pharetra sit amet mauris. Duis porta magna eu risus aliquam, non sagittis lorem semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Curabitur ultricies risus eu est blandit, eu tristique arcu convallis. In lacinia mauris ac nunc semper adipiscing. Fusce imperdiet semper convallis. In porta nunc ac arcu faucibus, ac feugiat felis vulputate.&lt;/p&gt;
 
 &lt;p&gt;Donec varius volutpat nisi at congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum malesuada porttitor mauris nec suscipit. Maecenas vel nulla dui. Vestibulum pulvinar congue nulla vel tristique. Fusce congue magna at tortor facilisis pulvinar. Fusce et felis venenatis, iaculis augue eget, adipiscing sem. Aliquam suscipit tempus orci at euismod. Aenean vulputate ipsum vitae purus eleifend, nec eleifend metus aliquet. Nulla lobortis viverra massa id congue. In id commodo mi, id mattis odio. Curabitur venenatis orci mi, nec tempus diam congue sed. Proin non pellentesque ante. Integer velit augue, pharetra eget suscipit eu, blandit imperdiet erat. Morbi ut nibh purus.&lt;/p&gt;
 
@@ -43,7 +47,9 @@
 		
 			<item>
 				<title>First Post</title>
-				<description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia pretium dolor, eget placerat nulla consequat et. Phasellus lobortis urna non accumsan fermentum. Integer metus mauris, malesuada nec lobortis a, pharetra sit amet mauris. Duis porta magna eu risus aliquam, non sagittis lorem semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Curabitur ultricies risus eu est blandit, eu tristique arcu convallis. In lacinia mauris ac nunc semper adipiscing. Fusce imperdiet semper convallis. In porta nunc ac arcu faucibus, ac feugiat felis vulputate.&lt;/p&gt;
+				<description>&lt;p&gt;&lt;img src=&quot;/assets/images/image_1.jpg&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam lacinia pretium dolor, eget placerat nulla consequat et. Phasellus lobortis urna non accumsan fermentum. Integer metus mauris, malesuada nec lobortis a, pharetra sit amet mauris. Duis porta magna eu risus aliquam, non sagittis lorem semper. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In hac habitasse platea dictumst. Curabitur ultricies risus eu est blandit, eu tristique arcu convallis. In lacinia mauris ac nunc semper adipiscing. Fusce imperdiet semper convallis. In porta nunc ac arcu faucibus, ac feugiat felis vulputate.&lt;/p&gt;
 
 &lt;p&gt;Donec varius volutpat nisi at congue. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vestibulum malesuada porttitor mauris nec suscipit. Maecenas vel nulla dui. Vestibulum pulvinar congue nulla vel tristique. Fusce congue magna at tortor facilisis pulvinar. Fusce et felis venenatis, iaculis augue eget, adipiscing sem. Aliquam suscipit tempus orci at euismod. Aenean vulputate ipsum vitae purus eleifend, nec eleifend metus aliquet. Nulla lobortis viverra massa id congue. In id commodo mi, id mattis odio. Curabitur venenatis orci mi, nec tempus diam congue sed. Proin non pellentesque ante. Integer velit augue, pharetra eget suscipit eu, blandit imperdiet erat. Morbi ut nibh purus.&lt;/p&gt;
 
