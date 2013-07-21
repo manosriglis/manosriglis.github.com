@@ -1,17 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Flipboarded]]></title>
   <link href="http://manosriglis.github.io/atom.xml" rel="self"/>
   <link href="http://manosriglis.github.io/"/>
-  <updated>2013-07-21T16:27:33+01:00</updated>
+  <updated>2013-07-21T16:35:05+01:00</updated>
   <id>http://manosriglis.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Blonde]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Second Post]]></title>
+    <link href="http://manosriglis.github.io/blog/2013/07/21/second-post/"/>
+    <updated>2013-07-21T16:34:00+01:00</updated>
+    <id>http://manosriglis.github.io/blog/2013/07/21/second-post</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
